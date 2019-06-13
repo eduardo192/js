@@ -1,0 +1,1 @@
+[1, 2, 5, 6, 7].map(elemento => elemento - 3)

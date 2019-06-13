@@ -1,0 +1,1 @@
+const raiz = (a) => Math.sqrt(a);

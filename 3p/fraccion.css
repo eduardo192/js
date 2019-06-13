@@ -1,0 +1,12 @@
+div {
+    margin-right: 97%;
+}
+
+input {
+    width: 20px
+}
+
+div#fraccion2 {
+    left: 20%;
+    background-color: red;
+}
